@@ -1,2 +1,4 @@
 # diversemine-panemo
-DiverseMine Panemo Mod
+[Minecraft][1.6.4][Forge] DiverseMine Panemo Mod
+Планировалось сделать РПГ-сервер на диверсмайн с Саней, но по итогу как-то
+постепенно забил и я, и Саня, поэтому отдаю на растерзание
